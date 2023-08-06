@@ -4,7 +4,7 @@ Problem 1:
 Project Name: Swiggy Restaurants Data Analysis
 
 Problem Statement:
-How many cities (including subregions) where Swiggy is having its restaurants listed?
+How many cities (including subregions) where Swiggy have its restaurants listed?
 How many cities  (don't include subregions) where Swiggy is having their restaurants listed?
 The Subregion of Delhi with the maximum number of restaurants listed on Swiggy?
 Name the top 5 Most Expensive Cities in the Datasets.
